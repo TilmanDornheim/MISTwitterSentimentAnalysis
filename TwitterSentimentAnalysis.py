@@ -10,12 +10,15 @@ class TwitterClient():
 
     def tweepy_setup(self):
         
-        # Try to authenticate 
+       
+       # Use keys and tokens from your twitter application
 
-        consumer_key = "cMneB3RB6RKEFS8lbauJeAtkR"
-        consumer_secret = "ZeQvW4rc9MS5YehTJbnZewYTtvz8igHmYIyK0bRhJKn828BMMH"
-        access_token = "974677908286566401-0B5xQWOkP2eJEWFJSWhtJMHnDDKH4pD"
-        access_token_secret = "pmx42ZYLAGlLLOwa9m0fkhPM8hCN2vIJVAO24VXIfvGOb"
+        consumer_key = "XXXXXX"
+        consumer_secret = "XXXXXX"
+        access_token = "XXXXXX"
+        access_token_secret = "XXXXXX"
+        
+        # Use keys and tokens from your twitter application
 
         try:
                 
